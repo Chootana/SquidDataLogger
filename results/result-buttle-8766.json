@@ -1,0 +1,215 @@
+{
+    "battle_number": "8766",
+    "elapsed_time": 312,
+    "estimate_gachi_power": 1710,
+    "game_mode": {
+        "key": "league_team",
+        "name": "リーグマッチ"
+    },
+    "league_point": 1841.9,
+    "max_league_point": 1871.5,
+    "my_estimate_league_point": 1820,
+    "my_team_count": 40,
+    "my_team_result": {
+        "key": "victory",
+        "name": "WIN!"
+    },
+    "other_estimate_league_point": 1650,
+    "other_team_count": 0,
+    "other_team_result": {
+        "key": "defeat",
+        "name": "LOSE…"
+    },
+    "player_rank": 42,
+    "player_result": {
+        "assist_count": 10,
+        "death_count": 5,
+        "game_paint_point": 1366,
+        "kill_count": 3,
+        "player": {
+            "clothes": {
+                "brand": {
+                    "frequent_skill": {
+                        "id": "201",
+                        "image": "/images/skill/39f3e937b709d378c178ef2bf00d9a7295b8159d.png",
+                        "name": "メイン性能アップ"
+                    },
+                    "id": "17",
+                    "image": "/images/brand/4b05e494bf9a547b4d625fd52dcdd930a6c4defc.png",
+                    "name": "タタキケンサキ"
+                },
+                "id": "8019",
+                "image": "/images/clothes/afd617f6cd5148258f768b91d5c69a73af42e249.png",
+                "kind": "clothes",
+                "name": "スミカケシャツ",
+                "rarity": 1,
+                "thumbnail": "/images/clothes/ef52f144387186dd26956be0381f85a35af426a0.png"
+            },
+            "clothes_skills": {
+                "main": {
+                    "id": "5",
+                    "image": "/images/skill/1378f3963526d7216ec44da35b924b81a8ff6a37.png",
+                    "name": "スペシャル増加量アップ"
+                },
+                "subs": [
+                    {
+                        "id": "5",
+                        "image": "/images/skill/1378f3963526d7216ec44da35b924b81a8ff6a37.png",
+                        "name": "スペシャル増加量アップ"
+                    },
+                    {
+                        "id": "5",
+                        "image": "/images/skill/1378f3963526d7216ec44da35b924b81a8ff6a37.png",
+                        "name": "スペシャル増加量アップ"
+                    },
+                    {
+                        "id": "0",
+                        "image": "/images/skill/04b1de71fba1f14197b9163503955c52fd74858b.png",
+                        "name": "インク効率アップ(メイン)"
+                    }
+                ]
+            },
+            "head": {
+                "brand": {
+                    "frequent_skill": {
+                        "id": "1",
+                        "image": "/images/skill/da8ff08954fd5d890fc8bc4dd4cb761e2a33b703.png",
+                        "name": "インク効率アップ(サブ)"
+                    },
+                    "id": "6",
+                    "image": "/images/brand/dee59c0797a6214114e527dfa51f0dd012085172.png",
+                    "name": "ホッコリー"
+                },
+                "id": "6001",
+                "image": "/images/head/b1bbb821330fc9af97e2f479486c5ab5b30af513.png",
+                "kind": "head",
+                "name": "ヤキフグ サンバイザー",
+                "rarity": 0,
+                "thumbnail": "/images/head/656a295fa70e4667c46b21a5ead80973777b7882.png"
+            },
+            "head_skills": {
+                "main": {
+                    "id": "5",
+                    "image": "/images/skill/1378f3963526d7216ec44da35b924b81a8ff6a37.png",
+                    "name": "スペシャル増加量アップ"
+                },
+                "subs": [
+                    {
+                        "id": "5",
+                        "image": "/images/skill/1378f3963526d7216ec44da35b924b81a8ff6a37.png",
+                        "name": "スペシャル増加量アップ"
+                    },
+                    {
+                        "id": "5",
+                        "image": "/images/skill/1378f3963526d7216ec44da35b924b81a8ff6a37.png",
+                        "name": "スペシャル増加量アップ"
+                    },
+                    {
+                        "id": "5",
+                        "image": "/images/skill/1378f3963526d7216ec44da35b924b81a8ff6a37.png",
+                        "name": "スペシャル増加量アップ"
+                    }
+                ]
+            },
+            "nickname": "ちゅーたな",
+            "player_rank": 42,
+            "player_type": {
+                "species": "octolings",
+                "style": "girl"
+            },
+            "principal_id": "fb9a41e92d348bb7",
+            "shoes": {
+                "brand": {
+                    "frequent_skill": {
+                        "id": "10",
+                        "image": "/images/skill/34e114a50a001778a574f7061039d43e632137b7.png",
+                        "name": "サブ性能アップ"
+                    },
+                    "id": "16",
+                    "image": "/images/brand/de96243d58e41e928d30290162a6f496033da868.png",
+                    "name": "エンペリー"
+                },
+                "id": "2017",
+                "image": "/images/shoes/65aeea0b4bba3b3131ce8ed87af66d22bf652a6d.png",
+                "kind": "shoes",
+                "name": "エギング4 アカクロ",
+                "rarity": 2,
+                "thumbnail": "/images/shoes/237c70d7467f31ac9810a98e34b57715473d40b4.png"
+            },
+            "shoes_skills": {
+                "main": {
+                    "id": "5",
+                    "image": "/images/skill/1378f3963526d7216ec44da35b924b81a8ff6a37.png",
+                    "name": "スペシャル増加量アップ"
+                },
+                "subs": [
+                    {
+                        "id": "5",
+                        "image": "/images/skill/1378f3963526d7216ec44da35b924b81a8ff6a37.png",
+                        "name": "スペシャル増加量アップ"
+                    },
+                    {
+                        "id": "5",
+                        "image": "/images/skill/1378f3963526d7216ec44da35b924b81a8ff6a37.png",
+                        "name": "スペシャル増加量アップ"
+                    },
+                    {
+                        "id": "5",
+                        "image": "/images/skill/1378f3963526d7216ec44da35b924b81a8ff6a37.png",
+                        "name": "スペシャル増加量アップ"
+                    }
+                ]
+            },
+            "star_rank": 1,
+            "udemae": {
+                "is_number_reached": true,
+                "is_x": true,
+                "name": "X",
+                "number": 128,
+                "s_plus_number": null
+            },
+            "weapon": {
+                "id": "10",
+                "image": "/images/weapon/91b6666bcbfccc204d86f21222a8db22a27d08d0.png",
+                "name": "わかばシューター",
+                "special": {
+                    "id": "1",
+                    "image_a": "/images/special/abe458a7d13d855f1b27135ccf3e96f46f1f3d10.png",
+                    "image_b": "/images/special/415bf85acb0b0dcc478316332fe86efb1fe4f203.png",
+                    "name": "インクアーマー"
+                },
+                "sub": {
+                    "id": "0",
+                    "image_a": "/images/sub/d2eaeec524d28ef315a13f8a9e11dd1039cb78aa.png",
+                    "image_b": "/images/sub/b13bf755b279af83904892fae01cd98c866dfec7.png",
+                    "name": "スプラッシュボム"
+                },
+                "thumbnail": "/images/weapon/f1419d88f30dfacdb94a8122ccdd8c14bbadc7c4.png"
+            }
+        },
+        "sort_score": 0,
+        "special_count": 7
+    },
+    "rule": {
+        "key": "clam_blitz",
+        "multiline_name": "ガチ\nアサリ",
+        "name": "ガチアサリ"
+    },
+    "stage": {
+        "id": "6",
+        "image": "/images/stage/070d7ee287fdf3c5df02411950c2a1ce5b238746.png",
+        "name": "マンタマリア号"
+    },
+    "star_rank": 1,
+    "start_time": 1571928992,
+    "tag_id": "jjblizGlIGe",
+    "type": "league",
+    "udemae": {
+        "is_number_reached": true,
+        "is_x": true,
+        "name": "X",
+        "number": 128,
+        "s_plus_number": null
+    },
+    "weapon_paint_point": 203321
+}

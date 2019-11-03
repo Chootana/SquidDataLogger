@@ -1,0 +1,215 @@
+{
+    "battle_number": "8762",
+    "elapsed_time": 225,
+    "estimate_gachi_power": 1920,
+    "game_mode": {
+        "key": "league_team",
+        "name": "リーグマッチ"
+    },
+    "league_point": null,
+    "max_league_point": -0.1,
+    "my_estimate_league_point": 1920,
+    "my_team_count": 0,
+    "my_team_result": {
+        "key": "defeat",
+        "name": "LOSE…"
+    },
+    "other_estimate_league_point": 1960,
+    "other_team_count": 100,
+    "other_team_result": {
+        "key": "victory",
+        "name": "WIN!"
+    },
+    "player_rank": 42,
+    "player_result": {
+        "assist_count": 2,
+        "death_count": 7,
+        "game_paint_point": 672,
+        "kill_count": 4,
+        "player": {
+            "clothes": {
+                "brand": {
+                    "frequent_skill": {
+                        "id": "4",
+                        "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                        "name": "イカダッシュ速度アップ"
+                    },
+                    "id": "2",
+                    "image": "/images/brand/9ac5752790dd6dbdc7a427df95e1bfe89fe318e0.png",
+                    "name": "クラーゲス"
+                },
+                "id": "8018",
+                "image": "/images/clothes/f7e0b134df34ae746aec9b19d1daa4147f2e2448.png",
+                "kind": "clothes",
+                "name": "タコボウラーシャツ",
+                "rarity": 1,
+                "thumbnail": "/images/clothes/b47996adb2291e1a8750b527046f3b33b243f047.png"
+            },
+            "clothes_skills": {
+                "main": {
+                    "id": "104",
+                    "image": "/images/skill/f0a99d1ab1a765b992b79610ebdc25b69d88fae9.png",
+                    "name": "イカニンジャ"
+                },
+                "subs": [
+                    {
+                        "id": "4",
+                        "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                        "name": "イカダッシュ速度アップ"
+                    },
+                    {
+                        "id": "4",
+                        "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                        "name": "イカダッシュ速度アップ"
+                    },
+                    {
+                        "id": "4",
+                        "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                        "name": "イカダッシュ速度アップ"
+                    }
+                ]
+            },
+            "head": {
+                "brand": {
+                    "frequent_skill": {
+                        "id": "4",
+                        "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                        "name": "イカダッシュ速度アップ"
+                    },
+                    "id": "2",
+                    "image": "/images/brand/9ac5752790dd6dbdc7a427df95e1bfe89fe318e0.png",
+                    "name": "クラーゲス"
+                },
+                "id": "8002",
+                "image": "/images/head/b54526717d6fa752490362359b3158c181ad75af.png",
+                "kind": "head",
+                "name": "エイズリーバンダナ",
+                "rarity": 0,
+                "thumbnail": "/images/head/a0a9ac8fcc096c4d754e44210fec9776abe54251.png"
+            },
+            "head_skills": {
+                "main": {
+                    "id": "1",
+                    "image": "/images/skill/da8ff08954fd5d890fc8bc4dd4cb761e2a33b703.png",
+                    "name": "インク効率アップ(サブ)"
+                },
+                "subs": [
+                    {
+                        "id": "4",
+                        "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                        "name": "イカダッシュ速度アップ"
+                    },
+                    {
+                        "id": "4",
+                        "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                        "name": "イカダッシュ速度アップ"
+                    },
+                    {
+                        "id": "4",
+                        "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                        "name": "イカダッシュ速度アップ"
+                    }
+                ]
+            },
+            "nickname": "ちゅーたな",
+            "player_rank": 42,
+            "player_type": {
+                "species": "octolings",
+                "style": "girl"
+            },
+            "principal_id": "fb9a41e92d348bb7",
+            "shoes": {
+                "brand": {
+                    "frequent_skill": {
+                        "id": "9",
+                        "image": "/images/skill/daf6883039afa62da91eb93eb2a40b673f10b715.png",
+                        "name": "スーパージャンプ時間短縮"
+                    },
+                    "id": "1",
+                    "image": "/images/brand/3d4661b3f60f4b74e9bb6760ba7397ecd2502a20.png",
+                    "name": "アイロニック"
+                },
+                "id": "1016",
+                "image": "/images/shoes/decd51f25421c2d8d960f881c2120f89964588ba.png",
+                "kind": "shoes",
+                "name": "デカロノーレース ブルー",
+                "rarity": 0,
+                "thumbnail": "/images/shoes/03e2469012a739dba41a120c10aaedfd17b54ef2.png"
+            },
+            "shoes_skills": {
+                "main": {
+                    "id": "109",
+                    "image": "/images/skill/8a3f06a972689b094f762626ff36b3db8ee545b5.png",
+                    "name": "ステルスジャンプ"
+                },
+                "subs": [
+                    {
+                        "id": "9",
+                        "image": "/images/skill/daf6883039afa62da91eb93eb2a40b673f10b715.png",
+                        "name": "スーパージャンプ時間短縮"
+                    },
+                    {
+                        "id": "9",
+                        "image": "/images/skill/daf6883039afa62da91eb93eb2a40b673f10b715.png",
+                        "name": "スーパージャンプ時間短縮"
+                    },
+                    {
+                        "id": "200",
+                        "image": "/images/skill/0a29f0ce326a81a5ddb3a7abab1816a25fefdc7c.png",
+                        "name": "爆風ダメージ軽減・改"
+                    }
+                ]
+            },
+            "star_rank": 1,
+            "udemae": {
+                "is_number_reached": true,
+                "is_x": true,
+                "name": "X",
+                "number": 128,
+                "s_plus_number": null
+            },
+            "weapon": {
+                "id": "1010",
+                "image": "/images/weapon/1041dbdd11b3036671148d47c2e0798cecf3dba2.png",
+                "name": "スプラローラー",
+                "special": {
+                    "id": "9",
+                    "image_a": "/images/special/324d41e9582d84101152849bc8c96d6595c9b0ff.png",
+                    "image_b": "/images/special/4eb81e00f5d707248879a7c7037d8475716a8045.png",
+                    "name": "スーパーチャクチ"
+                },
+                "sub": {
+                    "id": "3",
+                    "image_a": "/images/sub/e398a9e0360f048b6a0c4c3c1e89211cca96577f.png",
+                    "image_b": "/images/sub/2b5797c0ad847a54b9bd8168e75050484919d373.png",
+                    "name": "カーリングボム"
+                },
+                "thumbnail": "/images/weapon/626210255f99cb22bee1eded39457c51aa9622aa.png"
+            }
+        },
+        "sort_score": 0,
+        "special_count": 2
+    },
+    "rule": {
+        "key": "clam_blitz",
+        "multiline_name": "ガチ\nアサリ",
+        "name": "ガチアサリ"
+    },
+    "stage": {
+        "id": "20",
+        "image": "/images/stage/555c356487ac3edb0088c416e8045576c6b37fcc.png",
+        "name": "スメーシーワールド"
+    },
+    "star_rank": 1,
+    "start_time": 1571927426,
+    "tag_id": "jjblizGlIGe",
+    "type": "league",
+    "udemae": {
+        "is_number_reached": true,
+        "is_x": true,
+        "name": "X",
+        "number": 128,
+        "s_plus_number": null
+    },
+    "weapon_paint_point": 59886
+}

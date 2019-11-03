@@ -1,0 +1,216 @@
+{
+    "battle_number": "8819",
+    "crown_players": [
+        "677b0488b1c9882d"
+    ],
+    "elapsed_time": 222,
+    "estimate_gachi_power": null,
+    "estimate_x_power": 2410,
+    "game_mode": {
+        "key": "gachi",
+        "name": "ガチマッチ"
+    },
+    "my_team_count": 0,
+    "my_team_result": {
+        "key": "defeat",
+        "name": "LOSE…"
+    },
+    "other_team_count": 100,
+    "other_team_result": {
+        "key": "victory",
+        "name": "WIN!"
+    },
+    "player_rank": 43,
+    "player_result": {
+        "assist_count": 4,
+        "death_count": 4,
+        "game_paint_point": 1337,
+        "kill_count": 3,
+        "player": {
+            "clothes": {
+                "brand": {
+                    "frequent_skill": {
+                        "id": "2",
+                        "image": "/images/skill/c14f4471b26e0f918c736b5c17e03212290f4541.png",
+                        "name": "インク回復力アップ"
+                    },
+                    "id": "10",
+                    "image": "/images/brand/02286fe17bb6bc3f5f13c6b251ddc0a55c44c756.png",
+                    "name": "アロメ"
+                },
+                "id": "1003",
+                "image": "/images/clothes/cb29f781f0328232bba8d2997bf03795c552904e.png",
+                "kind": "clothes",
+                "name": "イカノメＴ ライトブルー",
+                "rarity": 0,
+                "thumbnail": "/images/clothes/d67b79f8f71e13004a73f901da060a5a47b83009.png"
+            },
+            "clothes_skills": {
+                "main": {
+                    "id": "201",
+                    "image": "/images/skill/39f3e937b709d378c178ef2bf00d9a7295b8159d.png",
+                    "name": "メイン性能アップ"
+                },
+                "subs": [
+                    {
+                        "id": "201",
+                        "image": "/images/skill/39f3e937b709d378c178ef2bf00d9a7295b8159d.png",
+                        "name": "メイン性能アップ"
+                    },
+                    {
+                        "id": "201",
+                        "image": "/images/skill/39f3e937b709d378c178ef2bf00d9a7295b8159d.png",
+                        "name": "メイン性能アップ"
+                    },
+                    {
+                        "id": "201",
+                        "image": "/images/skill/39f3e937b709d378c178ef2bf00d9a7295b8159d.png",
+                        "name": "メイン性能アップ"
+                    }
+                ]
+            },
+            "head": {
+                "brand": {
+                    "frequent_skill": {
+                        "id": "11",
+                        "image": "/images/skill/33087a476135074af856151a89a6fe4d1d3a996e.png",
+                        "name": "相手インク影響軽減"
+                    },
+                    "id": "0",
+                    "image": "/images/brand/5547e529d160b188d104e3b68ff4b7566eab9771.png",
+                    "name": "バトロイカ"
+                },
+                "id": "24003",
+                "image": "/images/head/16df6c9fa9b8ca862aff9cbcaa1812b9f658b7f0.png",
+                "kind": "head",
+                "name": "アンコウラバーマスク",
+                "rarity": 2,
+                "thumbnail": "/images/head/378e8fc0ccf8caaa857baafa306e3c5fd9922a08.png"
+            },
+            "head_skills": {
+                "main": {
+                    "id": "0",
+                    "image": "/images/skill/04b1de71fba1f14197b9163503955c52fd74858b.png",
+                    "name": "インク効率アップ(メイン)"
+                },
+                "subs": [
+                    {
+                        "id": "11",
+                        "image": "/images/skill/33087a476135074af856151a89a6fe4d1d3a996e.png",
+                        "name": "相手インク影響軽減"
+                    },
+                    {
+                        "id": "11",
+                        "image": "/images/skill/33087a476135074af856151a89a6fe4d1d3a996e.png",
+                        "name": "相手インク影響軽減"
+                    },
+                    {
+                        "id": "11",
+                        "image": "/images/skill/33087a476135074af856151a89a6fe4d1d3a996e.png",
+                        "name": "相手インク影響軽減"
+                    }
+                ]
+            },
+            "nickname": "ちゅーたな",
+            "player_rank": 43,
+            "player_type": {
+                "species": "octolings",
+                "style": "girl"
+            },
+            "principal_id": "fb9a41e92d348bb7",
+            "shoes": {
+                "brand": {
+                    "frequent_skill": {
+                        "id": "4",
+                        "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                        "name": "イカダッシュ速度アップ"
+                    },
+                    "id": "2",
+                    "image": "/images/brand/9ac5752790dd6dbdc7a427df95e1bfe89fe318e0.png",
+                    "name": "クラーゲス"
+                },
+                "id": "4000",
+                "image": "/images/shoes/c04a1ffdbea45f728f65fca0ca7142cd38cedfe8.png",
+                "kind": "shoes",
+                "name": "オイスタークロッグ",
+                "rarity": 0,
+                "thumbnail": "/images/shoes/19feeb268c95dae1e47b53617e5784809c571a10.png"
+            },
+            "shoes_skills": {
+                "main": {
+                    "id": "109",
+                    "image": "/images/skill/8a3f06a972689b094f762626ff36b3db8ee545b5.png",
+                    "name": "ステルスジャンプ"
+                },
+                "subs": [
+                    {
+                        "id": "8",
+                        "image": "/images/skill/84ab4ba1188849dff63a4314955a53ab103b47df.png",
+                        "name": "復活時間短縮"
+                    },
+                    {
+                        "id": "8",
+                        "image": "/images/skill/84ab4ba1188849dff63a4314955a53ab103b47df.png",
+                        "name": "復活時間短縮"
+                    },
+                    {
+                        "id": "8",
+                        "image": "/images/skill/84ab4ba1188849dff63a4314955a53ab103b47df.png",
+                        "name": "復活時間短縮"
+                    }
+                ]
+            },
+            "star_rank": 1,
+            "udemae": {
+                "is_number_reached": true,
+                "is_x": true,
+                "name": "X",
+                "number": 128,
+                "s_plus_number": null
+            },
+            "weapon": {
+                "id": "80",
+                "image": "/images/weapon/df90f6065594378690647c23d42440e2de89c99d.png",
+                "name": ".96ガロン",
+                "special": {
+                    "id": "1",
+                    "image_a": "/images/special/abe458a7d13d855f1b27135ccf3e96f46f1f3d10.png",
+                    "image_b": "/images/special/415bf85acb0b0dcc478316332fe86efb1fe4f203.png",
+                    "name": "インクアーマー"
+                },
+                "sub": {
+                    "id": "6",
+                    "image_a": "/images/sub/46f5b9fe851d4ac8df9eb959e7270ff72526dffe.png",
+                    "image_b": "/images/sub/47b6c31e712634bd793d5b920288fe7b1fb3c2bd.png",
+                    "name": "スプリンクラー"
+                },
+                "thumbnail": "/images/weapon/a696c21270a22fdb9babb63512031f5283be7c31.png"
+            }
+        },
+        "sort_score": 1,
+        "special_count": 4
+    },
+    "rank": null,
+    "rule": {
+        "key": "clam_blitz",
+        "multiline_name": "ガチ\nアサリ",
+        "name": "ガチアサリ"
+    },
+    "stage": {
+        "id": "0",
+        "image": "/images/stage/98baf21c0366ce6e03299e2326fe6d27a7582dce.png",
+        "name": "バッテラストリート"
+    },
+    "star_rank": 1,
+    "start_time": 1572532477,
+    "type": "gachi",
+    "udemae": {
+        "is_number_reached": true,
+        "is_x": true,
+        "name": "X",
+        "number": 128,
+        "s_plus_number": null
+    },
+    "weapon_paint_point": 732274,
+    "x_power": 2404.8
+}

@@ -1,0 +1,214 @@
+{
+    "battle_number": "8802",
+    "crown_players": [],
+    "elapsed_time": 303,
+    "estimate_gachi_power": null,
+    "estimate_x_power": 2250,
+    "game_mode": {
+        "key": "gachi",
+        "name": "ガチマッチ"
+    },
+    "my_team_count": 83,
+    "my_team_result": {
+        "key": "defeat",
+        "name": "LOSE…"
+    },
+    "other_team_count": 85,
+    "other_team_result": {
+        "key": "victory",
+        "name": "WIN!"
+    },
+    "player_rank": 43,
+    "player_result": {
+        "assist_count": 2,
+        "death_count": 8,
+        "game_paint_point": 743,
+        "kill_count": 4,
+        "player": {
+            "clothes": {
+                "brand": {
+                    "frequent_skill": {
+                        "id": "2",
+                        "image": "/images/skill/c14f4471b26e0f918c736b5c17e03212290f4541.png",
+                        "name": "インク回復力アップ"
+                    },
+                    "id": "10",
+                    "image": "/images/brand/02286fe17bb6bc3f5f13c6b251ddc0a55c44c756.png",
+                    "name": "アロメ"
+                },
+                "id": "1003",
+                "image": "/images/clothes/cb29f781f0328232bba8d2997bf03795c552904e.png",
+                "kind": "clothes",
+                "name": "イカノメＴ ライトブルー",
+                "rarity": 0,
+                "thumbnail": "/images/clothes/d67b79f8f71e13004a73f901da060a5a47b83009.png"
+            },
+            "clothes_skills": {
+                "main": {
+                    "id": "201",
+                    "image": "/images/skill/39f3e937b709d378c178ef2bf00d9a7295b8159d.png",
+                    "name": "メイン性能アップ"
+                },
+                "subs": [
+                    {
+                        "id": "201",
+                        "image": "/images/skill/39f3e937b709d378c178ef2bf00d9a7295b8159d.png",
+                        "name": "メイン性能アップ"
+                    },
+                    {
+                        "id": "201",
+                        "image": "/images/skill/39f3e937b709d378c178ef2bf00d9a7295b8159d.png",
+                        "name": "メイン性能アップ"
+                    },
+                    {
+                        "id": "201",
+                        "image": "/images/skill/39f3e937b709d378c178ef2bf00d9a7295b8159d.png",
+                        "name": "メイン性能アップ"
+                    }
+                ]
+            },
+            "head": {
+                "brand": {
+                    "frequent_skill": {
+                        "id": "7",
+                        "image": "/images/skill/f20a3e85feeb6b4bb021d28059afd6265cee0b43.png",
+                        "name": "スペシャル性能アップ"
+                    },
+                    "id": "5",
+                    "image": "/images/brand/b38b99b3358f587efd1613b72a72c9ca9f81f406.png",
+                    "name": "フォーリマ"
+                },
+                "id": "5000",
+                "image": "/images/head/7da0e102b3ad5a5115e0214fd8ab33f243057317.png",
+                "kind": "head",
+                "name": "スタジオヘッドホン",
+                "rarity": 1,
+                "thumbnail": "/images/head/437b604dd1e1f87e550acce1447127d88976fd6e.png"
+            },
+            "head_skills": {
+                "main": {
+                    "id": "201",
+                    "image": "/images/skill/39f3e937b709d378c178ef2bf00d9a7295b8159d.png",
+                    "name": "メイン性能アップ"
+                },
+                "subs": [
+                    {
+                        "id": "201",
+                        "image": "/images/skill/39f3e937b709d378c178ef2bf00d9a7295b8159d.png",
+                        "name": "メイン性能アップ"
+                    },
+                    {
+                        "id": "201",
+                        "image": "/images/skill/39f3e937b709d378c178ef2bf00d9a7295b8159d.png",
+                        "name": "メイン性能アップ"
+                    },
+                    {
+                        "id": "201",
+                        "image": "/images/skill/39f3e937b709d378c178ef2bf00d9a7295b8159d.png",
+                        "name": "メイン性能アップ"
+                    }
+                ]
+            },
+            "nickname": "ちゅーたな",
+            "player_rank": 43,
+            "player_type": {
+                "species": "octolings",
+                "style": "girl"
+            },
+            "principal_id": "fb9a41e92d348bb7",
+            "shoes": {
+                "brand": {
+                    "frequent_skill": {
+                        "id": "1",
+                        "image": "/images/skill/da8ff08954fd5d890fc8bc4dd4cb761e2a33b703.png",
+                        "name": "インク効率アップ(サブ)"
+                    },
+                    "id": "6",
+                    "image": "/images/brand/dee59c0797a6214114e527dfa51f0dd012085172.png",
+                    "name": "ホッコリー"
+                },
+                "id": "4012",
+                "image": "/images/shoes/918e3af596899a7b15c18d96536d336968ddf16e.png",
+                "kind": "shoes",
+                "name": "ヤキフグシャワサン キ",
+                "rarity": 1,
+                "thumbnail": "/images/shoes/7e9ee5a698a770117f6169ac7528a9f146638319.png"
+            },
+            "shoes_skills": {
+                "main": {
+                    "id": "201",
+                    "image": "/images/skill/39f3e937b709d378c178ef2bf00d9a7295b8159d.png",
+                    "name": "メイン性能アップ"
+                },
+                "subs": [
+                    {
+                        "id": "1",
+                        "image": "/images/skill/da8ff08954fd5d890fc8bc4dd4cb761e2a33b703.png",
+                        "name": "インク効率アップ(サブ)"
+                    },
+                    {
+                        "id": "1",
+                        "image": "/images/skill/da8ff08954fd5d890fc8bc4dd4cb761e2a33b703.png",
+                        "name": "インク効率アップ(サブ)"
+                    },
+                    {
+                        "id": "10",
+                        "image": "/images/skill/34e114a50a001778a574f7061039d43e632137b7.png",
+                        "name": "サブ性能アップ"
+                    }
+                ]
+            },
+            "star_rank": 1,
+            "udemae": {
+                "is_number_reached": true,
+                "is_x": true,
+                "name": "X",
+                "number": 128,
+                "s_plus_number": null
+            },
+            "weapon": {
+                "id": "72",
+                "image": "/images/weapon/69cb46d940fa310937264d9cd962143e85ee633b.png",
+                "name": "プライムシューターベッチュー",
+                "special": {
+                    "id": "17",
+                    "image_a": "/images/special/e6f33512755e462874f57d1f02b61bb1c41ad79f.png",
+                    "image_b": "/images/special/714c00b84b54d68c5e0b6da4186d41831fb4a442.png",
+                    "name": "ナイスダマ"
+                },
+                "sub": {
+                    "id": "0",
+                    "image_a": "/images/sub/d2eaeec524d28ef315a13f8a9e11dd1039cb78aa.png",
+                    "image_b": "/images/sub/b13bf755b279af83904892fae01cd98c866dfec7.png",
+                    "name": "スプラッシュボム"
+                },
+                "thumbnail": "/images/weapon/54ce83bf80f87263854d3c96ebdb54f427aa0a09.png"
+            }
+        },
+        "sort_score": 0,
+        "special_count": 2
+    },
+    "rank": null,
+    "rule": {
+        "key": "rainmaker",
+        "multiline_name": "ガチホコ\nバトル",
+        "name": "ガチホコバトル"
+    },
+    "stage": {
+        "id": "15",
+        "image": "/images/stage/dcf332bdcc80f566f3ae59c1c3a29bc6312d0ba8.png",
+        "name": "アロワナモール"
+    },
+    "star_rank": 1,
+    "start_time": 1572350937,
+    "type": "gachi",
+    "udemae": {
+        "is_number_reached": true,
+        "is_x": true,
+        "name": "X",
+        "number": 128,
+        "s_plus_number": null
+    },
+    "weapon_paint_point": 232819,
+    "x_power": 2247.6
+}
