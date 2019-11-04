@@ -11,6 +11,11 @@ class NintendoNetAPI():
     def __init__(self, cookie, url):
         self.cookie = cookie
         self.url = url
+        
+        # [TODO] get_json_data -> self.json_data
+        # set_battle_number() -> self.battle_numbers = [..., ..., ...]
+        # self.urls = [self.url + self.battle_numbers[0] , self.url + self.battle_numbers[1], ...]
+        # save_battle_data -> open each url and get self.json_data, and then save each file
     
     def get_json_data(self):
         opener = build_opener(HTTPCookieProcessor(CookieJar()))
@@ -18,6 +23,8 @@ class NintendoNetAPI():
         res = opener.open(url)
         from IPython import embed; embed(); exit()
         self.json_data = json.load(res)
+                
+
     
     def save_json_data(self, data, output_dir_path, output_file_path):
         if not os.path.isdir(output_dir_path):
@@ -29,13 +36,12 @@ class NintendoNetAPI():
                 outputFile.close()
 
     def save_all_data(self):
-        output_dir_path = "all"
+        output_dir_path = "./data/all"
         output_file_path = output_dir_path + "/all.json"
         self.save_json_data(self.json_data, output_dir_path, output_file_path)
         
     def save_battle_data(self):
-        output_dir_path = "./results"
-        from IPython import embed; embed(); exit()
+        output_dir_path = "./data/results"
         for result in self.json_data["results"]:
             output_file_path = output_dir_path + "/result-battle-" + result["battle_number"] + ".json"
             self.save_json_data(result, output_dir_path, output_file_path)
@@ -46,12 +52,16 @@ class NintendoNetAPI():
     
     
 if __name__ == '__main__':
-    cookie = "iksm_session=3195c9548b278b3ca0c6b3a17c5d556d682b3a81"
-    url = "https://app.splatoon2.nintendo.net/api/data/results/"
+    # [CAUTION] iksm_session will be expired in two or three days.
+    cookie = "iksm_session=e58e25d155891b4255f49b37e771c614038ae24d"
     
+    # [CAUTION] Do not include a trailing slash.
+    url = "https://app.splatoon2.nintendo.net/api/results"
+    
+    # [TODO] to get battle_number and get detailed battle data.
     nintendo_net_api = NintendoNetAPI(cookie, url)
     nintendo_net_api.get_json_data()
-    nintendo_net_api.save_battle_data()
+    # nintendo_net_api.save_battle_data()
     nintendo_net_api.save_all_data()
     
     
