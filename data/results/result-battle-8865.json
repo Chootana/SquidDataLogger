@@ -1,0 +1,1369 @@
+{
+    "battle_number": "8865",
+    "crown_players": [
+        "f40f7739b3d62ddd"
+    ],
+    "elapsed_time": 319,
+    "estimate_gachi_power": null,
+    "estimate_x_power": 2390,
+    "game_mode": {
+        "key": "gachi",
+        "name": "ガチマッチ"
+    },
+    "my_team_count": 96,
+    "my_team_members": [
+        {
+            "assist_count": 4,
+            "death_count": 8,
+            "game_paint_point": 1034,
+            "kill_count": 14,
+            "player": {
+                "clothes": {
+                    "brand": {
+                        "frequent_skill": {
+                            "id": "11",
+                            "image": "/images/skill/33087a476135074af856151a89a6fe4d1d3a996e.png",
+                            "name": "相手インク影響軽減"
+                        },
+                        "id": "0",
+                        "image": "/images/brand/5547e529d160b188d104e3b68ff4b7566eab9771.png",
+                        "name": "バトロイカ"
+                    },
+                    "id": "1030",
+                    "image": "/images/clothes/10c11ac53b28cd8ad562c798020b9b41e8f1db3e.png",
+                    "kind": "clothes",
+                    "name": "イカブラックV",
+                    "rarity": 1,
+                    "thumbnail": "/images/clothes/e5300994c31742d503ab51d33a738cc044bce915.png"
+                },
+                "clothes_skills": {
+                    "main": {
+                        "id": "10",
+                        "image": "/images/skill/34e114a50a001778a574f7061039d43e632137b7.png",
+                        "name": "サブ性能アップ"
+                    },
+                    "subs": [
+                        {
+                            "id": "1",
+                            "image": "/images/skill/da8ff08954fd5d890fc8bc4dd4cb761e2a33b703.png",
+                            "name": "インク効率アップ(サブ)"
+                        },
+                        {
+                            "id": "4",
+                            "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                            "name": "イカダッシュ速度アップ"
+                        },
+                        {
+                            "id": "9",
+                            "image": "/images/skill/daf6883039afa62da91eb93eb2a40b673f10b715.png",
+                            "name": "スーパージャンプ時間短縮"
+                        }
+                    ]
+                },
+                "head": {
+                    "brand": {
+                        "frequent_skill": {
+                            "id": "7",
+                            "image": "/images/skill/f20a3e85feeb6b4bb021d28059afd6265cee0b43.png",
+                            "name": "スペシャル性能アップ"
+                        },
+                        "id": "5",
+                        "image": "/images/brand/b38b99b3358f587efd1613b72a72c9ca9f81f406.png",
+                        "name": "フォーリマ"
+                    },
+                    "id": "8003",
+                    "image": "/images/head/420f4fb23c4777df3144b1bbdbdeaccee6bf642a.png",
+                    "kind": "head",
+                    "name": "イカスカルマスク",
+                    "rarity": 2,
+                    "thumbnail": "/images/head/1497dc3c21ca2724ac69aa9217ecbb9d33f42fd5.png"
+                },
+                "head_skills": {
+                    "main": {
+                        "id": "103",
+                        "image": "/images/skill/bdc5135874439cf3169d9a54b3f1fbdba3731b34.png",
+                        "name": "カムバック"
+                    },
+                    "subs": [
+                        {
+                            "id": "1",
+                            "image": "/images/skill/da8ff08954fd5d890fc8bc4dd4cb761e2a33b703.png",
+                            "name": "インク効率アップ(サブ)"
+                        },
+                        {
+                            "id": "201",
+                            "image": "/images/skill/39f3e937b709d378c178ef2bf00d9a7295b8159d.png",
+                            "name": "メイン性能アップ"
+                        },
+                        {
+                            "id": "201",
+                            "image": "/images/skill/39f3e937b709d378c178ef2bf00d9a7295b8159d.png",
+                            "name": "メイン性能アップ"
+                        }
+                    ]
+                },
+                "nickname": "-273.15°C",
+                "player_rank": 60,
+                "player_type": {
+                    "species": "inklings",
+                    "style": "girl"
+                },
+                "principal_id": "4987eebe74317cc9",
+                "shoes": {
+                    "brand": {
+                        "frequent_skill": {
+                            "id": "201",
+                            "image": "/images/skill/39f3e937b709d378c178ef2bf00d9a7295b8159d.png",
+                            "name": "メイン性能アップ"
+                        },
+                        "id": "17",
+                        "image": "/images/brand/4b05e494bf9a547b4d625fd52dcdd930a6c4defc.png",
+                        "name": "タタキケンサキ"
+                    },
+                    "id": "3013",
+                    "image": "/images/shoes/dda93e3d3783ef11c7dbdd88b664c3ed3c8f9a89.png",
+                    "kind": "shoes",
+                    "name": "アローズ タタキベッチュー",
+                    "rarity": 2,
+                    "thumbnail": "/images/shoes/9366357216019ac4cb395b1ad88138a731d165cc.png"
+                },
+                "shoes_skills": {
+                    "main": {
+                        "id": "109",
+                        "image": "/images/skill/8a3f06a972689b094f762626ff36b3db8ee545b5.png",
+                        "name": "ステルスジャンプ"
+                    },
+                    "subs": [
+                        {
+                            "id": "2",
+                            "image": "/images/skill/c14f4471b26e0f918c736b5c17e03212290f4541.png",
+                            "name": "インク回復力アップ"
+                        },
+                        {
+                            "id": "2",
+                            "image": "/images/skill/c14f4471b26e0f918c736b5c17e03212290f4541.png",
+                            "name": "インク回復力アップ"
+                        },
+                        {
+                            "id": "11",
+                            "image": "/images/skill/33087a476135074af856151a89a6fe4d1d3a996e.png",
+                            "name": "相手インク影響軽減"
+                        }
+                    ]
+                },
+                "star_rank": 3,
+                "udemae": {
+                    "is_x": true,
+                    "name": "X",
+                    "s_plus_number": null
+                },
+                "weapon": {
+                    "id": "222",
+                    "image": "/images/weapon/c3652374f3048b9affa9ae858bfd563bf61e9e91.png",
+                    "name": "ロングブラスターネクロ",
+                    "special": {
+                        "id": "0",
+                        "image_a": "/images/special/e395a50d51459dcee4db62d8d1fbc4bb263bc326.png",
+                        "image_b": "/images/special/4819d9d318668bdd5dab248a23397ec351bc5c60.png",
+                        "name": "マルチミサイル"
+                    },
+                    "sub": {
+                        "id": "2",
+                        "image_a": "/images/sub/5f978ddb4716f0d04fcc737755b0b3d212d5671c.png",
+                        "image_b": "/images/sub/0c90dd7487c0c1179e0e6827b8928143cf04e336.png",
+                        "name": "クイックボム"
+                    },
+                    "thumbnail": "/images/weapon/c844758e5b5be41de7324c8e16cd559a45234fc3.png"
+                }
+            },
+            "sort_score": 0,
+            "special_count": 3
+        },
+        {
+            "assist_count": 7,
+            "death_count": 8,
+            "game_paint_point": 906,
+            "kill_count": 11,
+            "player": {
+                "clothes": {
+                    "brand": {
+                        "frequent_skill": {
+                            "id": "0",
+                            "image": "/images/skill/04b1de71fba1f14197b9163503955c52fd74858b.png",
+                            "name": "インク効率アップ(メイン)"
+                        },
+                        "id": "8",
+                        "image": "/images/brand/36bc10db0aa2640c87ad712fc0281515beedcca1.png",
+                        "name": "ジモン"
+                    },
+                    "id": "2016",
+                    "image": "/images/clothes/8cea4de55633bcda0978cc3c5681866d7a22fdcd.png",
+                    "kind": "clothes",
+                    "name": "ゆとりボーダー ライム",
+                    "rarity": 1,
+                    "thumbnail": "/images/clothes/e8a4367028d6d06ca8cf657f664c1211d72bff1d.png"
+                },
+                "clothes_skills": {
+                    "main": {
+                        "id": "8",
+                        "image": "/images/skill/84ab4ba1188849dff63a4314955a53ab103b47df.png",
+                        "name": "復活時間短縮"
+                    },
+                    "subs": [
+                        {
+                            "id": "8",
+                            "image": "/images/skill/84ab4ba1188849dff63a4314955a53ab103b47df.png",
+                            "name": "復活時間短縮"
+                        },
+                        {
+                            "id": "0",
+                            "image": "/images/skill/04b1de71fba1f14197b9163503955c52fd74858b.png",
+                            "name": "インク効率アップ(メイン)"
+                        },
+                        {
+                            "id": "0",
+                            "image": "/images/skill/04b1de71fba1f14197b9163503955c52fd74858b.png",
+                            "name": "インク効率アップ(メイン)"
+                        }
+                    ]
+                },
+                "head": {
+                    "brand": {
+                        "id": "97",
+                        "image": "/images/brand/ec85f17c315e0a1ea4dee55041fd30a88d6aba93.png",
+                        "name": "クマサン商会"
+                    },
+                    "id": "21005",
+                    "image": "/images/head/dda09e3858519df0080eba6da78dc84d6824df14.png",
+                    "kind": "head",
+                    "name": "レジェンドのぼうし",
+                    "rarity": 2,
+                    "thumbnail": "/images/head/b74761d9715ba7f8c0726b14de0c4cef77e5fc47.png"
+                },
+                "head_skills": {
+                    "main": {
+                        "id": "0",
+                        "image": "/images/skill/04b1de71fba1f14197b9163503955c52fd74858b.png",
+                        "name": "インク効率アップ(メイン)"
+                    },
+                    "subs": [
+                        {
+                            "id": "6",
+                            "image": "/images/skill/d83b962b84fcea9d02c591c296234f5de77f9682.png",
+                            "name": "スペシャル減少量ダウン"
+                        },
+                        {
+                            "id": "4",
+                            "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                            "name": "イカダッシュ速度アップ"
+                        },
+                        {
+                            "id": "4",
+                            "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                            "name": "イカダッシュ速度アップ"
+                        }
+                    ]
+                },
+                "nickname": "こんにちわー！",
+                "player_rank": 23,
+                "player_type": {
+                    "species": "inklings",
+                    "style": "girl"
+                },
+                "principal_id": "2a6e0750be34736e",
+                "shoes": {
+                    "brand": {
+                        "id": "97",
+                        "image": "/images/brand/ec85f17c315e0a1ea4dee55041fd30a88d6aba93.png",
+                        "name": "クマサン商会"
+                    },
+                    "id": "21004",
+                    "image": "/images/shoes/17a0444c7c1e7fc4f4c92821d1954d79e2dfa1e0.png",
+                    "kind": "shoes",
+                    "name": "チギリノヒモ",
+                    "rarity": 2,
+                    "thumbnail": "/images/shoes/3fa44172dcafc3d829d1bde6ad750bf390ebe04d.png"
+                },
+                "shoes_skills": {
+                    "main": {
+                        "id": "2",
+                        "image": "/images/skill/c14f4471b26e0f918c736b5c17e03212290f4541.png",
+                        "name": "インク回復力アップ"
+                    },
+                    "subs": [
+                        {
+                            "id": "11",
+                            "image": "/images/skill/33087a476135074af856151a89a6fe4d1d3a996e.png",
+                            "name": "相手インク影響軽減"
+                        },
+                        {
+                            "id": "2",
+                            "image": "/images/skill/c14f4471b26e0f918c736b5c17e03212290f4541.png",
+                            "name": "インク回復力アップ"
+                        },
+                        {
+                            "id": "11",
+                            "image": "/images/skill/33087a476135074af856151a89a6fe4d1d3a996e.png",
+                            "name": "相手インク影響軽減"
+                        }
+                    ]
+                },
+                "star_rank": 2,
+                "udemae": {
+                    "is_x": true,
+                    "name": "X",
+                    "s_plus_number": null
+                },
+                "weapon": {
+                    "id": "2012",
+                    "image": "/images/weapon/6d06647d94a6f379236a260dd7fd61d9c77c7d0c.png",
+                    "name": "スプラチャージャーベッチュー",
+                    "special": {
+                        "id": "11",
+                        "image_a": "/images/special/3e9cd3e60367fbe82d6237a10fdc826d695b9fa0.png",
+                        "image_b": "/images/special/caf32476e5010e27a4ef9923dbe323978b1d7510.png",
+                        "name": "イカスフィア"
+                    },
+                    "sub": {
+                        "id": "6",
+                        "image_a": "/images/sub/46f5b9fe851d4ac8df9eb959e7270ff72526dffe.png",
+                        "image_b": "/images/sub/47b6c31e712634bd793d5b920288fe7b1fb3c2bd.png",
+                        "name": "スプリンクラー"
+                    },
+                    "thumbnail": "/images/weapon/a275a69a05894dc555dae0d2ba926eee4d998b32.png"
+                }
+            },
+            "sort_score": 3,
+            "special_count": 4
+        },
+        {
+            "assist_count": 2,
+            "death_count": 10,
+            "game_paint_point": 1003,
+            "kill_count": 12,
+            "player": {
+                "clothes": {
+                    "brand": {
+                        "frequent_skill": {
+                            "id": "4",
+                            "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                            "name": "イカダッシュ速度アップ"
+                        },
+                        "id": "2",
+                        "image": "/images/brand/9ac5752790dd6dbdc7a427df95e1bfe89fe318e0.png",
+                        "name": "クラーゲス"
+                    },
+                    "id": "8018",
+                    "image": "/images/clothes/f7e0b134df34ae746aec9b19d1daa4147f2e2448.png",
+                    "kind": "clothes",
+                    "name": "タコボウラーシャツ",
+                    "rarity": 1,
+                    "thumbnail": "/images/clothes/b47996adb2291e1a8750b527046f3b33b243f047.png"
+                },
+                "clothes_skills": {
+                    "main": {
+                        "id": "104",
+                        "image": "/images/skill/f0a99d1ab1a765b992b79610ebdc25b69d88fae9.png",
+                        "name": "イカニンジャ"
+                    },
+                    "subs": [
+                        {
+                            "id": "4",
+                            "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                            "name": "イカダッシュ速度アップ"
+                        },
+                        {
+                            "id": "4",
+                            "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                            "name": "イカダッシュ速度アップ"
+                        },
+                        {
+                            "id": "4",
+                            "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                            "name": "イカダッシュ速度アップ"
+                        }
+                    ]
+                },
+                "head": {
+                    "brand": {
+                        "frequent_skill": {
+                            "id": "8",
+                            "image": "/images/skill/84ab4ba1188849dff63a4314955a53ab103b47df.png",
+                            "name": "復活時間短縮"
+                        },
+                        "id": "7",
+                        "image": "/images/brand/8175954b5a7e02b8097dbb484c808c8f39d31f41.png",
+                        "name": "ホタックス"
+                    },
+                    "id": "1026",
+                    "image": "/images/head/1eaf073acff1c291bfbe4be4e46b299e6276698f.png",
+                    "kind": "head",
+                    "name": "ドゥーラグキャップガサネ",
+                    "rarity": 2,
+                    "thumbnail": "/images/head/788462faed9afa2c24e7a37717c284a3d6dc664b.png"
+                },
+                "head_skills": {
+                    "main": {
+                        "id": "201",
+                        "image": "/images/skill/39f3e937b709d378c178ef2bf00d9a7295b8159d.png",
+                        "name": "メイン性能アップ"
+                    },
+                    "subs": [
+                        {
+                            "id": "4",
+                            "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                            "name": "イカダッシュ速度アップ"
+                        },
+                        {
+                            "id": "200",
+                            "image": "/images/skill/0a29f0ce326a81a5ddb3a7abab1816a25fefdc7c.png",
+                            "name": "爆風ダメージ軽減・改"
+                        },
+                        {
+                            "id": "200",
+                            "image": "/images/skill/0a29f0ce326a81a5ddb3a7abab1816a25fefdc7c.png",
+                            "name": "爆風ダメージ軽減・改"
+                        }
+                    ]
+                },
+                "nickname": "やまぴぃ",
+                "player_rank": 82,
+                "player_type": {
+                    "species": "octolings",
+                    "style": "girl"
+                },
+                "principal_id": "4c2ecbc2567ac9db",
+                "shoes": {
+                    "brand": {
+                        "frequent_skill": {
+                            "id": "3",
+                            "image": "/images/skill/7de1bdfd875ef470b6066c17bed726b5b5113d48.png",
+                            "name": "ヒト移動速度アップ"
+                        },
+                        "id": "3",
+                        "image": "/images/brand/451a2d0b5ceb7ea4ec4e47c3ff05eee362e9b722.png",
+                        "name": "ロッケンベルグ"
+                    },
+                    "id": "8001",
+                    "image": "/images/shoes/f3b152ce43344407c09ce9913c14ee3f820079fa.png",
+                    "kind": "shoes",
+                    "name": "ラバーソール チェリー",
+                    "rarity": 1,
+                    "thumbnail": "/images/shoes/3447a399ba6266270ee68d997f7a44f0b019c6dc.png"
+                },
+                "shoes_skills": {
+                    "main": {
+                        "id": "109",
+                        "image": "/images/skill/8a3f06a972689b094f762626ff36b3db8ee545b5.png",
+                        "name": "ステルスジャンプ"
+                    },
+                    "subs": [
+                        {
+                            "id": "9",
+                            "image": "/images/skill/daf6883039afa62da91eb93eb2a40b673f10b715.png",
+                            "name": "スーパージャンプ時間短縮"
+                        },
+                        {
+                            "id": "1",
+                            "image": "/images/skill/da8ff08954fd5d890fc8bc4dd4cb761e2a33b703.png",
+                            "name": "インク効率アップ(サブ)"
+                        },
+                        {
+                            "id": "1",
+                            "image": "/images/skill/da8ff08954fd5d890fc8bc4dd4cb761e2a33b703.png",
+                            "name": "インク効率アップ(サブ)"
+                        }
+                    ]
+                },
+                "star_rank": 2,
+                "udemae": {
+                    "is_x": true,
+                    "name": "X",
+                    "s_plus_number": null
+                },
+                "weapon": {
+                    "id": "1015",
+                    "image": "/images/weapon/e3a04bc009779c7b8c67a38eca480d8490227bbb.png",
+                    "name": "ヒーローローラー レプリカ",
+                    "special": {
+                        "id": "9",
+                        "image_a": "/images/special/324d41e9582d84101152849bc8c96d6595c9b0ff.png",
+                        "image_b": "/images/special/4eb81e00f5d707248879a7c7037d8475716a8045.png",
+                        "name": "スーパーチャクチ"
+                    },
+                    "sub": {
+                        "id": "3",
+                        "image_a": "/images/sub/e398a9e0360f048b6a0c4c3c1e89211cca96577f.png",
+                        "image_b": "/images/sub/2b5797c0ad847a54b9bd8168e75050484919d373.png",
+                        "name": "カーリングボム"
+                    },
+                    "thumbnail": "/images/weapon/d782fd218fe45d0f2b82a8a1f72fb3d824e7c759.png"
+                }
+            },
+            "sort_score": 2,
+            "special_count": 1
+        }
+    ],
+    "my_team_result": {
+        "key": "victory",
+        "name": "WIN!"
+    },
+    "other_team_count": 95,
+    "other_team_members": [
+        {
+            "assist_count": 2,
+            "death_count": 14,
+            "game_paint_point": 732,
+            "kill_count": 7,
+            "player": {
+                "clothes": {
+                    "brand": {
+                        "frequent_skill": {
+                            "id": "0",
+                            "image": "/images/skill/04b1de71fba1f14197b9163503955c52fd74858b.png",
+                            "name": "インク効率アップ(メイン)"
+                        },
+                        "id": "8",
+                        "image": "/images/brand/36bc10db0aa2640c87ad712fc0281515beedcca1.png",
+                        "name": "ジモン"
+                    },
+                    "id": "5005",
+                    "image": "/images/clothes/91783be0b1f53ed1eb2a545c92fffc133eb8abe5.png",
+                    "kind": "clothes",
+                    "name": "レタード グリーン",
+                    "rarity": 1,
+                    "thumbnail": "/images/clothes/1a9fba434f9bb05f95c78d2c15698a2283d407ee.png"
+                },
+                "clothes_skills": {
+                    "main": {
+                        "id": "1",
+                        "image": "/images/skill/da8ff08954fd5d890fc8bc4dd4cb761e2a33b703.png",
+                        "name": "インク効率アップ(サブ)"
+                    },
+                    "subs": [
+                        {
+                            "id": "0",
+                            "image": "/images/skill/04b1de71fba1f14197b9163503955c52fd74858b.png",
+                            "name": "インク効率アップ(メイン)"
+                        },
+                        {
+                            "id": "2",
+                            "image": "/images/skill/c14f4471b26e0f918c736b5c17e03212290f4541.png",
+                            "name": "インク回復力アップ"
+                        },
+                        {
+                            "id": "2",
+                            "image": "/images/skill/c14f4471b26e0f918c736b5c17e03212290f4541.png",
+                            "name": "インク回復力アップ"
+                        }
+                    ]
+                },
+                "head": {
+                    "brand": {
+                        "frequent_skill": {
+                            "id": "1",
+                            "image": "/images/skill/da8ff08954fd5d890fc8bc4dd4cb761e2a33b703.png",
+                            "name": "インク効率アップ(サブ)"
+                        },
+                        "id": "6",
+                        "image": "/images/brand/dee59c0797a6214114e527dfa51f0dd012085172.png",
+                        "name": "ホッコリー"
+                    },
+                    "id": "4001",
+                    "image": "/images/head/bef066fa7b68ec0ea340f501a4ef747ea864adc5.png",
+                    "kind": "head",
+                    "name": "サファリハット",
+                    "rarity": 2,
+                    "thumbnail": "/images/head/de07c2cff166e990cfbdbd1e56ec337bfe60030a.png"
+                },
+                "head_skills": {
+                    "main": {
+                        "id": "0",
+                        "image": "/images/skill/04b1de71fba1f14197b9163503955c52fd74858b.png",
+                        "name": "インク効率アップ(メイン)"
+                    },
+                    "subs": [
+                        {
+                            "id": "4",
+                            "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                            "name": "イカダッシュ速度アップ"
+                        },
+                        {
+                            "id": "11",
+                            "image": "/images/skill/33087a476135074af856151a89a6fe4d1d3a996e.png",
+                            "name": "相手インク影響軽減"
+                        },
+                        {
+                            "id": "200",
+                            "image": "/images/skill/0a29f0ce326a81a5ddb3a7abab1816a25fefdc7c.png",
+                            "name": "爆風ダメージ軽減・改"
+                        }
+                    ]
+                },
+                "nickname": "しかにゃん",
+                "player_rank": 24,
+                "player_type": {
+                    "species": "inklings",
+                    "style": "girl"
+                },
+                "principal_id": "40ee4874ce2eca30",
+                "shoes": {
+                    "brand": {
+                        "frequent_skill": {
+                            "id": "9",
+                            "image": "/images/skill/daf6883039afa62da91eb93eb2a40b673f10b715.png",
+                            "name": "スーパージャンプ時間短縮"
+                        },
+                        "id": "1",
+                        "image": "/images/brand/3d4661b3f60f4b74e9bb6760ba7397ecd2502a20.png",
+                        "name": "アイロニック"
+                    },
+                    "id": "1016",
+                    "image": "/images/shoes/decd51f25421c2d8d960f881c2120f89964588ba.png",
+                    "kind": "shoes",
+                    "name": "デカロノーレース ブルー",
+                    "rarity": 0,
+                    "thumbnail": "/images/shoes/03e2469012a739dba41a120c10aaedfd17b54ef2.png"
+                },
+                "shoes_skills": {
+                    "main": {
+                        "id": "109",
+                        "image": "/images/skill/8a3f06a972689b094f762626ff36b3db8ee545b5.png",
+                        "name": "ステルスジャンプ"
+                    },
+                    "subs": [
+                        {
+                            "id": "4",
+                            "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                            "name": "イカダッシュ速度アップ"
+                        },
+                        {
+                            "id": "11",
+                            "image": "/images/skill/33087a476135074af856151a89a6fe4d1d3a996e.png",
+                            "name": "相手インク影響軽減"
+                        },
+                        {
+                            "id": "9",
+                            "image": "/images/skill/daf6883039afa62da91eb93eb2a40b673f10b715.png",
+                            "name": "スーパージャンプ時間短縮"
+                        }
+                    ]
+                },
+                "star_rank": 1,
+                "udemae": {
+                    "is_x": true,
+                    "name": "X",
+                    "s_plus_number": null
+                },
+                "weapon": {
+                    "id": "5021",
+                    "image": "/images/weapon/7c661d3fd51b68829d99776b0d43a5d17d463a22.png",
+                    "name": "ケルビン525デコ",
+                    "special": {
+                        "id": "11",
+                        "image_a": "/images/special/3e9cd3e60367fbe82d6237a10fdc826d695b9fa0.png",
+                        "image_b": "/images/special/caf32476e5010e27a4ef9923dbe323978b1d7510.png",
+                        "name": "イカスフィア"
+                    },
+                    "sub": {
+                        "id": "9",
+                        "image_a": "/images/sub/b00df7ddec57c9254094c901dbb7533b61e5a3e3.png",
+                        "image_b": "/images/sub/42940c5ac8fea75599f8d8379f9e0c5bbd2eaedd.png",
+                        "name": "スプラッシュシールド"
+                    },
+                    "thumbnail": "/images/weapon/7bf3815d02c4d310ce69e083b612fbb45aba0865.png"
+                }
+            },
+            "sort_score": 1,
+            "special_count": 0
+        },
+        {
+            "assist_count": 1,
+            "death_count": 9,
+            "game_paint_point": 1413,
+            "kill_count": 15,
+            "player": {
+                "clothes": {
+                    "brand": {
+                        "frequent_skill": {
+                            "id": "200",
+                            "image": "/images/skill/0a29f0ce326a81a5ddb3a7abab1816a25fefdc7c.png",
+                            "name": "爆風ダメージ軽減・改"
+                        },
+                        "id": "9",
+                        "image": "/images/brand/80648c6e427eae4d32677797fa1be7c0e253fda5.png",
+                        "name": "シグレニ"
+                    },
+                    "id": "5039",
+                    "image": "/images/clothes/7642b623aa7dbe88857ec8294780e3816c68bdf6.png",
+                    "kind": "clothes",
+                    "name": "マウンテンチリペッパー",
+                    "rarity": 2,
+                    "thumbnail": "/images/clothes/898ef59d141ce8055e33c458bae02b702b8a3b4c.png"
+                },
+                "clothes_skills": {
+                    "main": {
+                        "id": "201",
+                        "image": "/images/skill/39f3e937b709d378c178ef2bf00d9a7295b8159d.png",
+                        "name": "メイン性能アップ"
+                    },
+                    "subs": [
+                        {
+                            "id": "201",
+                            "image": "/images/skill/39f3e937b709d378c178ef2bf00d9a7295b8159d.png",
+                            "name": "メイン性能アップ"
+                        },
+                        {
+                            "id": "201",
+                            "image": "/images/skill/39f3e937b709d378c178ef2bf00d9a7295b8159d.png",
+                            "name": "メイン性能アップ"
+                        },
+                        {
+                            "id": "201",
+                            "image": "/images/skill/39f3e937b709d378c178ef2bf00d9a7295b8159d.png",
+                            "name": "メイン性能アップ"
+                        }
+                    ]
+                },
+                "head": {
+                    "brand": {
+                        "frequent_skill": {
+                            "id": "8",
+                            "image": "/images/skill/84ab4ba1188849dff63a4314955a53ab103b47df.png",
+                            "name": "復活時間短縮"
+                        },
+                        "id": "7",
+                        "image": "/images/brand/8175954b5a7e02b8097dbb484c808c8f39d31f41.png",
+                        "name": "ホタックス"
+                    },
+                    "id": "1026",
+                    "image": "/images/head/1eaf073acff1c291bfbe4be4e46b299e6276698f.png",
+                    "kind": "head",
+                    "name": "ドゥーラグキャップガサネ",
+                    "rarity": 2,
+                    "thumbnail": "/images/head/788462faed9afa2c24e7a37717c284a3d6dc664b.png"
+                },
+                "head_skills": {
+                    "main": {
+                        "id": "201",
+                        "image": "/images/skill/39f3e937b709d378c178ef2bf00d9a7295b8159d.png",
+                        "name": "メイン性能アップ"
+                    },
+                    "subs": [
+                        {
+                            "id": "201",
+                            "image": "/images/skill/39f3e937b709d378c178ef2bf00d9a7295b8159d.png",
+                            "name": "メイン性能アップ"
+                        },
+                        {
+                            "id": "201",
+                            "image": "/images/skill/39f3e937b709d378c178ef2bf00d9a7295b8159d.png",
+                            "name": "メイン性能アップ"
+                        },
+                        {
+                            "id": "200",
+                            "image": "/images/skill/0a29f0ce326a81a5ddb3a7abab1816a25fefdc7c.png",
+                            "name": "爆風ダメージ軽減・改"
+                        }
+                    ]
+                },
+                "nickname": "ohayosan24",
+                "player_rank": 76,
+                "player_type": {
+                    "species": "octolings",
+                    "style": "boy"
+                },
+                "principal_id": "b04a2db968c5777f",
+                "shoes": {
+                    "brand": {
+                        "frequent_skill": {
+                            "id": "10",
+                            "image": "/images/skill/34e114a50a001778a574f7061039d43e632137b7.png",
+                            "name": "サブ性能アップ"
+                        },
+                        "id": "16",
+                        "image": "/images/brand/de96243d58e41e928d30290162a6f496033da868.png",
+                        "name": "エンペリー"
+                    },
+                    "id": "2027",
+                    "image": "/images/shoes/d7dbb90a4820ed0bfcc8fdc400a72cc63241ccad.png",
+                    "kind": "shoes",
+                    "name": "エギング4 キイコン",
+                    "rarity": 2,
+                    "thumbnail": "/images/shoes/6ad2962598f7853ab456120a3c2ccd2493c81575.png"
+                },
+                "shoes_skills": {
+                    "main": {
+                        "id": "201",
+                        "image": "/images/skill/39f3e937b709d378c178ef2bf00d9a7295b8159d.png",
+                        "name": "メイン性能アップ"
+                    },
+                    "subs": [
+                        {
+                            "id": "4",
+                            "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                            "name": "イカダッシュ速度アップ"
+                        },
+                        {
+                            "id": "4",
+                            "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                            "name": "イカダッシュ速度アップ"
+                        },
+                        {
+                            "id": "4",
+                            "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                            "name": "イカダッシュ速度アップ"
+                        }
+                    ]
+                },
+                "star_rank": 3,
+                "udemae": {
+                    "is_x": true,
+                    "name": "X",
+                    "s_plus_number": null
+                },
+                "weapon": {
+                    "id": "72",
+                    "image": "/images/weapon/69cb46d940fa310937264d9cd962143e85ee633b.png",
+                    "name": "プライムシューターベッチュー",
+                    "special": {
+                        "id": "17",
+                        "image_a": "/images/special/e6f33512755e462874f57d1f02b61bb1c41ad79f.png",
+                        "image_b": "/images/special/714c00b84b54d68c5e0b6da4186d41831fb4a442.png",
+                        "name": "ナイスダマ"
+                    },
+                    "sub": {
+                        "id": "0",
+                        "image_a": "/images/sub/d2eaeec524d28ef315a13f8a9e11dd1039cb78aa.png",
+                        "image_b": "/images/sub/b13bf755b279af83904892fae01cd98c866dfec7.png",
+                        "name": "スプラッシュボム"
+                    },
+                    "thumbnail": "/images/weapon/54ce83bf80f87263854d3c96ebdb54f427aa0a09.png"
+                }
+            },
+            "sort_score": 2,
+            "special_count": 4
+        },
+        {
+            "assist_count": 3,
+            "death_count": 13,
+            "game_paint_point": 700,
+            "kill_count": 5,
+            "player": {
+                "clothes": {
+                    "brand": {
+                        "frequent_skill": {
+                            "id": "200",
+                            "image": "/images/skill/0a29f0ce326a81a5ddb3a7abab1816a25fefdc7c.png",
+                            "name": "爆風ダメージ軽減・改"
+                        },
+                        "id": "9",
+                        "image": "/images/brand/80648c6e427eae4d32677797fa1be7c0e253fda5.png",
+                        "name": "シグレニ"
+                    },
+                    "id": "5019",
+                    "image": "/images/clothes/061bba244494fec918b48795ebad3d4c7867096f.png",
+                    "kind": "clothes",
+                    "name": "マッチャ ライトダウン",
+                    "rarity": 2,
+                    "thumbnail": "/images/clothes/6048f6d03a13f3d20c17f3750bc404b72b5dc9e0.png"
+                },
+                "clothes_skills": {
+                    "main": {
+                        "id": "104",
+                        "image": "/images/skill/f0a99d1ab1a765b992b79610ebdc25b69d88fae9.png",
+                        "name": "イカニンジャ"
+                    },
+                    "subs": [
+                        {
+                            "id": "7",
+                            "image": "/images/skill/f20a3e85feeb6b4bb021d28059afd6265cee0b43.png",
+                            "name": "スペシャル性能アップ"
+                        },
+                        {
+                            "id": "7",
+                            "image": "/images/skill/f20a3e85feeb6b4bb021d28059afd6265cee0b43.png",
+                            "name": "スペシャル性能アップ"
+                        },
+                        {
+                            "id": "7",
+                            "image": "/images/skill/f20a3e85feeb6b4bb021d28059afd6265cee0b43.png",
+                            "name": "スペシャル性能アップ"
+                        }
+                    ]
+                },
+                "head": {
+                    "brand": {
+                        "frequent_skill": {
+                            "id": "1",
+                            "image": "/images/skill/da8ff08954fd5d890fc8bc4dd4cb761e2a33b703.png",
+                            "name": "インク効率アップ(サブ)"
+                        },
+                        "id": "6",
+                        "image": "/images/brand/dee59c0797a6214114e527dfa51f0dd012085172.png",
+                        "name": "ホッコリー"
+                    },
+                    "id": "1006",
+                    "image": "/images/head/8bef8c00276961268b36af9114ba029d645eed5b.png",
+                    "kind": "head",
+                    "name": "カモメッシュ",
+                    "rarity": 0,
+                    "thumbnail": "/images/head/68e836d2dd363501547375e3756348e22dd887b6.png"
+                },
+                "head_skills": {
+                    "main": {
+                        "id": "4",
+                        "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                        "name": "イカダッシュ速度アップ"
+                    },
+                    "subs": [
+                        {
+                            "id": "4",
+                            "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                            "name": "イカダッシュ速度アップ"
+                        },
+                        {
+                            "id": "4",
+                            "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                            "name": "イカダッシュ速度アップ"
+                        },
+                        {
+                            "id": "4",
+                            "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                            "name": "イカダッシュ速度アップ"
+                        }
+                    ]
+                },
+                "nickname": "7",
+                "player_rank": 22,
+                "player_type": {
+                    "species": "inklings",
+                    "style": "girl"
+                },
+                "principal_id": "e551935619a0bc7f",
+                "shoes": {
+                    "brand": {
+                        "frequent_skill": {
+                            "id": "2",
+                            "image": "/images/skill/c14f4471b26e0f918c736b5c17e03212290f4541.png",
+                            "name": "インク回復力アップ"
+                        },
+                        "id": "10",
+                        "image": "/images/brand/02286fe17bb6bc3f5f13c6b251ddc0a55c44c756.png",
+                        "name": "アロメ"
+                    },
+                    "id": "3018",
+                    "image": "/images/shoes/eadbd7540b0c81de98ef5a43abf4b224fe29a0af.png",
+                    "kind": "shoes",
+                    "name": "ウミウシボルト95",
+                    "rarity": 1,
+                    "thumbnail": "/images/shoes/6d14f43e1ef6df7f8f2d4743599c08ca6dfa2f90.png"
+                },
+                "shoes_skills": {
+                    "main": {
+                        "id": "1",
+                        "image": "/images/skill/da8ff08954fd5d890fc8bc4dd4cb761e2a33b703.png",
+                        "name": "インク効率アップ(サブ)"
+                    },
+                    "subs": [
+                        {
+                            "id": "1",
+                            "image": "/images/skill/da8ff08954fd5d890fc8bc4dd4cb761e2a33b703.png",
+                            "name": "インク効率アップ(サブ)"
+                        },
+                        {
+                            "id": "1",
+                            "image": "/images/skill/da8ff08954fd5d890fc8bc4dd4cb761e2a33b703.png",
+                            "name": "インク効率アップ(サブ)"
+                        },
+                        {
+                            "id": "1",
+                            "image": "/images/skill/da8ff08954fd5d890fc8bc4dd4cb761e2a33b703.png",
+                            "name": "インク効率アップ(サブ)"
+                        }
+                    ]
+                },
+                "star_rank": 1,
+                "udemae": {
+                    "is_x": true,
+                    "name": "X",
+                    "s_plus_number": null
+                },
+                "weapon": {
+                    "id": "1010",
+                    "image": "/images/weapon/1041dbdd11b3036671148d47c2e0798cecf3dba2.png",
+                    "name": "スプラローラー",
+                    "special": {
+                        "id": "9",
+                        "image_a": "/images/special/324d41e9582d84101152849bc8c96d6595c9b0ff.png",
+                        "image_b": "/images/special/4eb81e00f5d707248879a7c7037d8475716a8045.png",
+                        "name": "スーパーチャクチ"
+                    },
+                    "sub": {
+                        "id": "3",
+                        "image_a": "/images/sub/e398a9e0360f048b6a0c4c3c1e89211cca96577f.png",
+                        "image_b": "/images/sub/2b5797c0ad847a54b9bd8168e75050484919d373.png",
+                        "name": "カーリングボム"
+                    },
+                    "thumbnail": "/images/weapon/626210255f99cb22bee1eded39457c51aa9622aa.png"
+                }
+            },
+            "sort_score": 0,
+            "special_count": 1
+        },
+        {
+            "assist_count": 6,
+            "death_count": 10,
+            "game_paint_point": 1091,
+            "kill_count": 6,
+            "player": {
+                "clothes": {
+                    "brand": {
+                        "frequent_skill": {
+                            "id": "4",
+                            "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                            "name": "イカダッシュ速度アップ"
+                        },
+                        "id": "2",
+                        "image": "/images/brand/9ac5752790dd6dbdc7a427df95e1bfe89fe318e0.png",
+                        "name": "クラーゲス"
+                    },
+                    "id": "8018",
+                    "image": "/images/clothes/f7e0b134df34ae746aec9b19d1daa4147f2e2448.png",
+                    "kind": "clothes",
+                    "name": "タコボウラーシャツ",
+                    "rarity": 1,
+                    "thumbnail": "/images/clothes/b47996adb2291e1a8750b527046f3b33b243f047.png"
+                },
+                "clothes_skills": {
+                    "main": {
+                        "id": "104",
+                        "image": "/images/skill/f0a99d1ab1a765b992b79610ebdc25b69d88fae9.png",
+                        "name": "イカニンジャ"
+                    },
+                    "subs": [
+                        {
+                            "id": "4",
+                            "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                            "name": "イカダッシュ速度アップ"
+                        },
+                        {
+                            "id": "4",
+                            "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                            "name": "イカダッシュ速度アップ"
+                        },
+                        {
+                            "id": "4",
+                            "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                            "name": "イカダッシュ速度アップ"
+                        }
+                    ]
+                },
+                "head": {
+                    "brand": {
+                        "id": "98",
+                        "image": "/images/brand/047cbc2f0674eeb4796efb3b6ec1b710b22d07e7.png",
+                        "name": "アタリメイド"
+                    },
+                    "id": "27106",
+                    "image": "/images/head/fb4324a76a864904c89f63d2860193ef03fdfa22.png",
+                    "kind": "head",
+                    "name": "グランパなアタマ",
+                    "rarity": 1,
+                    "thumbnail": "/images/head/77f1673b278905c70e499ac8c1b5f70ce5846678.png"
+                },
+                "head_skills": {
+                    "main": {
+                        "id": "103",
+                        "image": "/images/skill/bdc5135874439cf3169d9a54b3f1fbdba3731b34.png",
+                        "name": "カムバック"
+                    },
+                    "subs": [
+                        {
+                            "id": "8",
+                            "image": "/images/skill/84ab4ba1188849dff63a4314955a53ab103b47df.png",
+                            "name": "復活時間短縮"
+                        },
+                        {
+                            "id": "8",
+                            "image": "/images/skill/84ab4ba1188849dff63a4314955a53ab103b47df.png",
+                            "name": "復活時間短縮"
+                        },
+                        {
+                            "id": "8",
+                            "image": "/images/skill/84ab4ba1188849dff63a4314955a53ab103b47df.png",
+                            "name": "復活時間短縮"
+                        }
+                    ]
+                },
+                "nickname": "みーんとちー！",
+                "player_rank": 30,
+                "player_type": {
+                    "species": "octolings",
+                    "style": "girl"
+                },
+                "principal_id": "f40f7739b3d62ddd",
+                "shoes": {
+                    "brand": {
+                        "frequent_skill": {
+                            "id": "5",
+                            "image": "/images/skill/1378f3963526d7216ec44da35b924b81a8ff6a37.png",
+                            "name": "スペシャル増加量アップ"
+                        },
+                        "id": "11",
+                        "image": "/images/brand/eab05d2d502cf953b4ae034c87e52e8c999339d6.png",
+                        "name": "ヤコ"
+                    },
+                    "id": "2016",
+                    "image": "/images/shoes/bcaab9b4f6f37d8adc2cb19a8652b71bb9e0d6df.png",
+                    "kind": "shoes",
+                    "name": "オルカHiサンセット",
+                    "rarity": 1,
+                    "thumbnail": "/images/shoes/dc88fce14ad389ecd8fa483b070d650a8c81778d.png"
+                },
+                "shoes_skills": {
+                    "main": {
+                        "id": "4",
+                        "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                        "name": "イカダッシュ速度アップ"
+                    },
+                    "subs": [
+                        {
+                            "id": "201",
+                            "image": "/images/skill/39f3e937b709d378c178ef2bf00d9a7295b8159d.png",
+                            "name": "メイン性能アップ"
+                        },
+                        {
+                            "id": "8",
+                            "image": "/images/skill/84ab4ba1188849dff63a4314955a53ab103b47df.png",
+                            "name": "復活時間短縮"
+                        },
+                        {
+                            "id": "2",
+                            "image": "/images/skill/c14f4471b26e0f918c736b5c17e03212290f4541.png",
+                            "name": "インク回復力アップ"
+                        }
+                    ]
+                },
+                "star_rank": 1,
+                "udemae": {
+                    "is_x": true,
+                    "name": "X",
+                    "s_plus_number": null
+                },
+                "weapon": {
+                    "id": "220",
+                    "image": "/images/weapon/109b2b851481510eaacb50afc8ce9fb79b7f20ad.png",
+                    "name": "ロングブラスター",
+                    "special": {
+                        "id": "10",
+                        "image_a": "/images/special/b07cb8cd5b8afbf509b98a9cbb768ed0f2e34898.png",
+                        "image_b": "/images/special/b2ffd060612d3ed4cfa7bee583cb28d22307064a.png",
+                        "name": "アメフラシ"
+                    },
+                    "sub": {
+                        "id": "1",
+                        "image_a": "/images/sub/79ec06c8afca6af0e14da4d9941706bb15f9927e.png",
+                        "image_b": "/images/sub/9d6336b855940f6c8fc82979a972f9f3381c0e65.png",
+                        "name": "キューバンボム"
+                    },
+                    "thumbnail": "/images/weapon/01b9c027ce23361582f6fd4c5ade502e5e5211b2.png"
+                }
+            },
+            "sort_score": 3,
+            "special_count": 3
+        }
+    ],
+    "other_team_result": {
+        "key": "defeat",
+        "name": "LOSE…"
+    },
+    "player_rank": 44,
+    "player_result": {
+        "assist_count": 6,
+        "death_count": 8,
+        "game_paint_point": 1641,
+        "kill_count": 9,
+        "player": {
+            "clothes": {
+                "brand": {
+                    "frequent_skill": {
+                        "id": "9",
+                        "image": "/images/skill/daf6883039afa62da91eb93eb2a40b673f10b715.png",
+                        "name": "スーパージャンプ時間短縮"
+                    },
+                    "id": "1",
+                    "image": "/images/brand/3d4661b3f60f4b74e9bb6760ba7397ecd2502a20.png",
+                    "name": "アイロニック"
+                },
+                "id": "1031",
+                "image": "/images/clothes/19f7a97d7c979843fcb94935707e0b76ca323643.png",
+                "kind": "clothes",
+                "name": "デカロゴＴ シロ",
+                "rarity": 0,
+                "thumbnail": "/images/clothes/28d03e319cb5086d23ba8d9844241a18cd388a90.png"
+            },
+            "clothes_skills": {
+                "main": {
+                    "id": "11",
+                    "image": "/images/skill/33087a476135074af856151a89a6fe4d1d3a996e.png",
+                    "name": "相手インク影響軽減"
+                },
+                "subs": [
+                    {
+                        "id": "3",
+                        "image": "/images/skill/7de1bdfd875ef470b6066c17bed726b5b5113d48.png",
+                        "name": "ヒト移動速度アップ"
+                    },
+                    {
+                        "id": "3",
+                        "image": "/images/skill/7de1bdfd875ef470b6066c17bed726b5b5113d48.png",
+                        "name": "ヒト移動速度アップ"
+                    },
+                    {
+                        "id": "3",
+                        "image": "/images/skill/7de1bdfd875ef470b6066c17bed726b5b5113d48.png",
+                        "name": "ヒト移動速度アップ"
+                    }
+                ]
+            },
+            "head": {
+                "brand": {
+                    "id": "98",
+                    "image": "/images/brand/047cbc2f0674eeb4796efb3b6ec1b710b22d07e7.png",
+                    "name": "アタリメイド"
+                },
+                "id": "27106",
+                "image": "/images/head/fb4324a76a864904c89f63d2860193ef03fdfa22.png",
+                "kind": "head",
+                "name": "グランパなアタマ",
+                "rarity": 1,
+                "thumbnail": "/images/head/77f1673b278905c70e499ac8c1b5f70ce5846678.png"
+            },
+            "head_skills": {
+                "main": {
+                    "id": "103",
+                    "image": "/images/skill/bdc5135874439cf3169d9a54b3f1fbdba3731b34.png",
+                    "name": "カムバック"
+                },
+                "subs": [
+                    {
+                        "id": "10",
+                        "image": "/images/skill/34e114a50a001778a574f7061039d43e632137b7.png",
+                        "name": "サブ性能アップ"
+                    },
+                    {
+                        "id": "200",
+                        "image": "/images/skill/0a29f0ce326a81a5ddb3a7abab1816a25fefdc7c.png",
+                        "name": "爆風ダメージ軽減・改"
+                    },
+                    {
+                        "id": "10",
+                        "image": "/images/skill/34e114a50a001778a574f7061039d43e632137b7.png",
+                        "name": "サブ性能アップ"
+                    }
+                ]
+            },
+            "nickname": "ちゅーたな",
+            "player_rank": 44,
+            "player_type": {
+                "species": "octolings",
+                "style": "girl"
+            },
+            "principal_id": "fb9a41e92d348bb7",
+            "shoes": {
+                "brand": {
+                    "frequent_skill": {
+                        "id": "4",
+                        "image": "/images/skill/d138c293c8ddac42fadf0e6531100a88c79c81f6.png",
+                        "name": "イカダッシュ速度アップ"
+                    },
+                    "id": "2",
+                    "image": "/images/brand/9ac5752790dd6dbdc7a427df95e1bfe89fe318e0.png",
+                    "name": "クラーゲス"
+                },
+                "id": "4000",
+                "image": "/images/shoes/c04a1ffdbea45f728f65fca0ca7142cd38cedfe8.png",
+                "kind": "shoes",
+                "name": "オイスタークロッグ",
+                "rarity": 0,
+                "thumbnail": "/images/shoes/19feeb268c95dae1e47b53617e5784809c571a10.png"
+            },
+            "shoes_skills": {
+                "main": {
+                    "id": "109",
+                    "image": "/images/skill/8a3f06a972689b094f762626ff36b3db8ee545b5.png",
+                    "name": "ステルスジャンプ"
+                },
+                "subs": [
+                    {
+                        "id": "8",
+                        "image": "/images/skill/84ab4ba1188849dff63a4314955a53ab103b47df.png",
+                        "name": "復活時間短縮"
+                    },
+                    {
+                        "id": "8",
+                        "image": "/images/skill/84ab4ba1188849dff63a4314955a53ab103b47df.png",
+                        "name": "復活時間短縮"
+                    },
+                    {
+                        "id": "8",
+                        "image": "/images/skill/84ab4ba1188849dff63a4314955a53ab103b47df.png",
+                        "name": "復活時間短縮"
+                    }
+                ]
+            },
+            "star_rank": 1,
+            "udemae": {
+                "is_number_reached": true,
+                "is_x": true,
+                "name": "X",
+                "number": 128,
+                "s_plus_number": null
+            },
+            "weapon": {
+                "id": "60",
+                "image": "/images/weapon/1f2b1db5917ef7a4e62f0e15b8805275e33f2179.png",
+                "name": "N-ZAP85",
+                "special": {
+                    "id": "1",
+                    "image_a": "/images/special/abe458a7d13d855f1b27135ccf3e96f46f1f3d10.png",
+                    "image_b": "/images/special/415bf85acb0b0dcc478316332fe86efb1fe4f203.png",
+                    "name": "インクアーマー"
+                },
+                "sub": {
+                    "id": "1",
+                    "image_a": "/images/sub/79ec06c8afca6af0e14da4d9941706bb15f9927e.png",
+                    "image_b": "/images/sub/9d6336b855940f6c8fc82979a972f9f3381c0e65.png",
+                    "name": "キューバンボム"
+                },
+                "thumbnail": "/images/weapon/fdcd7cbe806eb84df374ea8f7e074ac9637d4762.png"
+            }
+        },
+        "sort_score": 1,
+        "special_count": 4
+    },
+    "rank": 1619,
+    "rule": {
+        "key": "rainmaker",
+        "multiline_name": "ガチホコ\nバトル",
+        "name": "ガチホコバトル"
+    },
+    "stage": {
+        "id": "7",
+        "image": "/images/stage/0907fc7dc325836a94d385919fe01dc13848612a.png",
+        "name": "ホッケふ頭"
+    },
+    "star_rank": 1,
+    "start_time": 1573047914,
+    "type": "gachi",
+    "udemae": {
+        "is_number_reached": true,
+        "is_x": true,
+        "name": "X",
+        "number": 128,
+        "s_plus_number": null
+    },
+    "weapon_paint_point": 3066018,
+    "x_power": 2389
+}

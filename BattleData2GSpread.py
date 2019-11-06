@@ -70,7 +70,7 @@ class NintendoNetAPI():
 if __name__ == '__main__':
     print("Please ensure the cookie works.")
     # [CAUTION] iksm_session will be expired in two or three days.
-    cookie = "iksm_session=2b6ecfcc86f8b624ff4b464daa569cb673756d0b"
+    cookie = "iksm_session=e58e25d155891b4255f49b37e771c614038ae24d"
     
     # [CAUTION] Do not include a trailing slash.
     url_summary_data = "https://app.splatoon2.nintendo.net/api/results"
@@ -78,6 +78,8 @@ if __name__ == '__main__':
     nintendo_net_api = NintendoNetAPI(cookie, url_summary_data)
     nintendo_net_api.save_detailed_battle_data()
     
-    print(f"{nintendo_net_api.updated_file_count} files are loaded.")
+    print(nintendo_net_api.updated_file_count + " files are loaded.")
+    # nintendo_net_api.save_battle_data()
+    # nintendo_net_api.save_all_data()
     
     
