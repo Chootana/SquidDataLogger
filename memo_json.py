@@ -12,6 +12,8 @@ with open(output_file_path, 'w') as output_file:
     
     input_file_path = "./data/results/result-battle-8812.json"
     with open(input_file_path, 'r') as input_file:
+        
+        # [TODO] write shoter code without redundancy
         data = json.load(input_file)
         
         data_list = [
