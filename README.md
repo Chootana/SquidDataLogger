@@ -11,3 +11,6 @@
 # Tips
 + wifi，プロキシの設定をしたが，iOSでNintendo Switch Onlineが開けない時
 + mitmproxyからiksm_sessionをコピーする方法
+```python
+export.clip curl @focus
+```

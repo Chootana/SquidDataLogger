@@ -15,7 +15,8 @@ if __name__ == '__main__':
     print('Please ensure the cookie works.')
     
     # [CAUTION] iksm_session will be expired in two or three days.
-    cookie = 'iksm_session=4be8c9847a72aa56147342d996e61705f90677f0'
+    cookie = input('iksm_session=### -> ')
+    # cookie = 'iksm_session=a799ee142eb4e082307fd6ee563d7ed8fe2ebb75'
     
     # [CAUTION] Do not include a trailing slash.
     url_personal_data = 'https://app.splatoon2.nintendo.net/api/results'
